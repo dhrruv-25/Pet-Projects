@@ -3,6 +3,7 @@ Pet Projects
 Welcome to my pet projects. This is a place for me to show off bits of the work that I've done for people to see.
 
 Brief descriptions:
+
 NN.ipynb: contains an autoencoder built from scratch using numpy, and visualization using matplotlib. 
   The autoencoder takes a list of seven 0s and one 1 at varying positions, so there are eight training and testing instances.
   The main idea is to show how backpropagation/gradient descent updates the weight matrices to minimize error.
